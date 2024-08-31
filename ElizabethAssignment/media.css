@@ -1,0 +1,13 @@
+Body{
+
+    font-size: clamp(14px, 1.5vw, 16px);
+}
+
+
+
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
